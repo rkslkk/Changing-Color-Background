@@ -1,4 +1,4 @@
-   /* -webkit-animation: animate_bg 5s;
+   -webkit-animation: animate_bg 5s;
     animation: animate_bg 5s;
     -webkit-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
@@ -17,4 +17,3 @@
     50%  {background:#A569BD;}
     100% {background:purple;}
 }
-*/
